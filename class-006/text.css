@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald:wght@200..700&display=swap');
+*{
+    background-color: cyan;
+}
+h1{
+    color:rgb(5, 146, 146);
+    font-size: 60px;
+    text-align: center;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p{
+    font-size: 20px;
+    background-color: rgba(224, 4, 151, 0.733);
+    text-align:justify;
+}
+
+div p{
+    font-size: 30px;
+    background-color: chartreuse;
+    text-decoration: underline;
+}
+
+.btn{
+    font-size: 40px;
+    background-color: crimson;
+    text-decoration:line-through;
+}
+
+#btn{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(0, 255, 98);
+    font-size: 30px;
+    text-align: center;
+    color:rgb(214, 7, 24);
+    
+}
+
+.text{
+    width: 100px;
+    height: 20px;
+    background-color: blue;
+    font-size: 50px;
+  
+}
+
+.btn-2{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(255, 0, 170);
+    text-align: center;
+}
+
+.btn-3{
+    width: 150px;
+    height: 30px;
+    background-color:rgb(0, 139, 12);
+    text-align: center;
+}
+
+
+.btn-4{
+    width: 150px;
+    height: 30px;
+    background-color:crimson;
+    text-align: center;
+}
+
+.btn-5{
+    width: 150px;
+    height: 30px;
+    background-color:rgb(0, 139, 74);
+    text-align: center;
+}
+
+
+.btn-6{
+    width: 150px;
+    height: 30px;
+    background-color:rgb(139, 56, 0);
+    text-align: center;
+}
+
+.btn-7{
+    width: 150px;
+    height: 30px;
+    background-color:rgb(139, 0, 109);
+    text-align: center;
+}
